@@ -1,9 +1,17 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  min-width: 360px;
+  scroll-behavior: smooth;
+  background-color: #121211;
+}
+
+#__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 a {
@@ -13,4 +21,29 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'GT-Walsheim-Bold';
+  src: local('GT-Walsheim-Bold'), url(../public/fonts/GT-Walsheim-Bold-subset.woff2) format('woff2');
+}
+
+.fr1f5 {
+  font-family: GT-Walsheim-Bold;
+}
+
+.fh52u {
+  background-color: #121211;
+}
+
+.fs521 {
+  color: #6e6e6e;
+}
+
+.gwe62 {
+  background-color: #1a1a1a;
+}
+
+.g327 {
+  border-color: #302f30;
 }
