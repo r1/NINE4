@@ -9,7 +9,7 @@ export default function Main() {
             A free template site for{" "}
             <TextLoop>
               <span className="text-purple-600">Developers</span>
-              <span className="text-blue-600">Startups</span>
+              <span className="text-blue-600">Businesses</span>
               <span className="text-red-600">Hobbyists</span>
             </TextLoop>
           </h1>
