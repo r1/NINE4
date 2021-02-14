@@ -21,7 +21,7 @@ export default function Container() {
         </div>
         <nav class="flex-col flex-grow pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
           <a
-            class="px-4 py-2 mt-2 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg text-lg md:mt-0 md:ml-4 hover:text-blue-400 focus:text-white hover:bg-gray-800 focus:outline-none focus:shadow-outline"
+            class="px-4 py-2 mt-2 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg text-lg md:mt-0 md:ml-4 focus:text-white hover:bg-white hover:text-black focus:outline-none focus:shadow-outline"
             href="/"
           >
             Docs
