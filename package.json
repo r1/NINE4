@@ -11,6 +11,7 @@
     "alpinejs": "^2.8.0",
     "autoprefixer": "^10.2.3",
     "next": "10.0.5",
+    "next-seo": "^4.19.0",
     "postcss": "^8.2.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
