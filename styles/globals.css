@@ -24,8 +24,9 @@ a {
 }
 
 @font-face {
-  font-family: 'GT-Walsheim-Bold';
-  src: local('GT-Walsheim-Bold'), url(../public/fonts/GT-Walsheim-Bold-subset.woff2) format('woff2');
+  font-family: "GT-Walsheim-Bold";
+  src: local("GT-Walsheim-Bold"),
+    url(../public/fonts/GT-Walsheim-Bold-subset.woff2) format("woff2");
 }
 
 .fr1f5 {
