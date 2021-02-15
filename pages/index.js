@@ -1,14 +1,20 @@
-import styles from "../styles/Home.module.css";
-import Header from '@/components/Header'
-import Main from '@/components/Main'
-
-
+import Head from "next/head";
+import Header from "@/components/Header";
+import Main from "@/components/Main";
+import { NextSeo } from "next-seo";
 export default function Home() {
   return (
     <body className="text-white">
+      <Head>
+        <title>nine4</title>
+        <meta name="keywords" content="nine4, Jack Latimer, r1"></meta>
+      </Head>
+      <NextSeo
+        title="nine4 - Home"
+        description="Free Template Sites Built With Next.js & Styled With TailwindCSS"
+      />
       <Header />
       <Main />
-
     </body>
   );
 }
