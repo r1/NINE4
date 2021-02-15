@@ -5,7 +5,7 @@ export default function Main() {
     <section class="text-black body-font lg:pt-20">
       <div class="container px-5 mx-auto lg:px-4 lg:py-4">
         <div class="flex flex-col w-full mb-2 text-left md:text-center mt-16">
-          <h1 class="mb-2 text-6xl font-bold tracking-tighter text-white lg:text-8xl md:text-4xl">
+          <h1 class="mb-1 text-6xl font-bold tracking-tighter text-center text-white lg:text-8xl md:text-4xl">
             A free template site for{" "}
             <TextLoop>
               <span className="text-purple-600">Developers</span>
