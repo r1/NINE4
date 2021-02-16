@@ -10,6 +10,7 @@
   "dependencies": {
     "alpinejs": "^2.8.0",
     "autoprefixer": "^10.2.3",
+    "firebase": "^8.2.7",
     "next": "10.0.5",
     "next-seo": "^4.19.0",
     "postcss": "^8.2.4",

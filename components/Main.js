@@ -7,12 +7,11 @@ export default function Main() {
         <div className="flex flex-col w-full mb-2 text-left md:text-center mt-16">
           <h1 className="mb-1 text-6xl font-bold tracking-tighter text-center text-white lg:text-8xl md:text-7xl">
             A free template site for{" "}
-            <TextLoop className="tr62">
-              <span className="text-purple-600">Developers</span>
-              <span className="text-blue-600">Businesses</span>
-              <span className="text-red-600">Hobbyists</span>
+            <TextLoop>
+              <span className="text-purple-600">Developers‏‏‎ ‏‏‎ ‎‏‏‎ ‏‏‎ ‎‎‎‏‏‎‎</span>
+              <span className="text-blue-600">Businesses‏‏‎ ‎‏‏‎ ‏‏‎‏‏‎‏‏‎ ‎ ‎‏‏‎ ‎</span>
+              <span className="text-red-600">Hobbyists‏‏‎ ‎‏‏‎ ‎‏‏‎‎‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎</span>
             </TextLoop>
-            
           </h1>
           <br></br>
           <p className="mx-auto text-xl font-normal leading-relaxed fs521 dark:text-gray-300 lg:w-2/3">
