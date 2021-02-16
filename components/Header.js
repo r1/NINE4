@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react";
 
 export default function Container() {
   const [navbarOpen, setNavbarOpen] = React.useState(false);
