@@ -9,7 +9,7 @@ export default function Home() {
     <Layout>
       <body className="text-white">
         <Head>
-          <title>nine4</title>
+          <title>nine4.app</title>
           <meta name="keywords" content="nine4, Jack Latimer, r1"></meta>
         </Head>
         <NextSeo
