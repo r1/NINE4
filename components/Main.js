@@ -8,9 +8,9 @@ export default function Main() {
           <h1 className="mb-1 text-6xl font-bold tracking-tighter text-center text-white lg:text-8xl md:text-7xl">
             A free template site for{" "}
             <TextLoop>
-              <span className="text-purple-600">Developers‏‏‎ ‏‏‎ ‎‏‏‎ ‏‏‎ ‎‎‎‏‏‎‎</span>
-              <span className="text-blue-600">Businesses‏‏‎ ‎‏‏‎ ‏‏‎‏‏‎‏‏‎ ‎ ‎‏‏‎ ‎</span>
-              <span className="text-red-600">Hobbyists‏‏‎ ‎‏‏‎ ‎‏‏‎‎‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎</span>
+              <span className="text-purple-600">Developers‏‏‎</span>
+              <span className="text-blue-600">Businesses</span>
+              <span className="text-red-600">Hobbyists‏‏‎‏‏</span>
             </TextLoop>
           </h1>
           <br></br>
