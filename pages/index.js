@@ -2,6 +2,10 @@ import Head from "next/head";
 import Header from "@/components/Header";
 import Main from "@/components/Main";
 import { NextSeo } from "next-seo";
+import firebase from '@/lib/firebase';
+
+console.log(firebase.name);
+
 export default function Home() {
   return (
     <body className="text-white">
