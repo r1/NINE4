@@ -1,12 +1,12 @@
 import Head from "next/head";
 import Header from "@/components/Header";
-import Main from "@/components/Main";
-import { NextSeo } from "next-seo";
 import Layout from "@/components/Layout";
+import { NextSeo } from "next-seo";
+import LayoutGA from "@/components/LayoutGA";
 
 export default function Home() {
   return (
-    <Layout>
+    <LayoutGA>
       <body className="text-white">
         <Head>
           <title>nine4.app</title>
@@ -17,8 +17,8 @@ export default function Home() {
           description="Free Template Sites Built With Next.js & Styled With TailwindCSS"
         />
         <Header />
-        <Main />
+        <Layout />
       </body>
-    </Layout>
+    </LayoutGA>
   );
 }
