@@ -24,7 +24,7 @@ export default function Main() {
         <img
           className="object-cover object-center w-3/4 mb-10 g327 border rounded-lg shadow-md"
           alt="hero"
-          src="./images/nine4-1.png"
+          src="./images/nine4-1.webp"
         ></img>
       </div>
     </section>
