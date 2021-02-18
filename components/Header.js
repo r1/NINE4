@@ -8,7 +8,7 @@ export default function Container() {
       <div className="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div className="flex flex-row items-center justify-between p-4">
           <a
-            href="#"
+            href="/"
             className="text-lg font-semibold rounded-lg tracking-widestuppercase focus:outline-none focus:shadow-outline"
           >
             <h1 className="text-4xl font-bold tracking-tighter text-white uppercase md:text-md lg:text-3xl">
@@ -56,7 +56,7 @@ export default function Container() {
 
             <a
               className="inline-flex items-center px-4 py-2 mt-2 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent gwe62 g327 border rounded-lg text-md md:mt-0 md:ml-4 hover:text-black hover:bg-white focus:shadow-outline"
-              href="/"
+              href="/templates"
             >
               <div className="flex text-lg tracking-tighter">
                 <span className="justify-center">View Templates</span>
