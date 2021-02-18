@@ -18,6 +18,7 @@ export default function Container() {
           <button
             className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block md:hidden outline-none focus:outline-none"
             type="button"
+            aria-label="button"
             onClick={() => setNavbarOpen(!navbarOpen)}
           >
             <svg

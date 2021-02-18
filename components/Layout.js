@@ -14,7 +14,7 @@ export default function Main() {
             </TextLoop>
           </h1>
           <br></br>
-          <p className="mx-auto text-xl font-normal leading-relaxed fs521 dark:text-gray-300 lg:w-2/3">
+          <p className="mx-auto text-xl font-normal leading-relaxed fs521 lg:w-2/3">
             nine4 is a free to use template website for websites made with
             Next.js and styled with Tailwind CSS
           </p>
