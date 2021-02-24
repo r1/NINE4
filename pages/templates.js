@@ -10,7 +10,7 @@ export default function Home() {
       <body className="text-white">
         <Head>
           <title>nine4.app</title>
-          <meta name="keywords" content="nine4, Jack Latimer, r1"></meta>
+          <meta name="keywords" content="nine4, nine4 templates, Jack Latimer, r1"></meta>
         </Head>
         <NextSeo
           title="nine4"
