@@ -23,16 +23,6 @@ a {
   box-sizing: border-box;
 }
 
-@font-face {
-  font-family: "GT-Walsheim-Bold";
-  src: local("GT-Walsheim-Bold"),
-    url(../public/fonts/GT-Walsheim-Bold-subset.woff2) format("woff2");
-}
-
-.fr1f5 {
-  font-family: GT-Walsheim-Bold;
-}
-
 .fh52u {
   background-color: #121211;
 }
