@@ -5,7 +5,7 @@ export default function Main() {
         <div className="flex flex-col w-full mb-2 text-left md:text-center ">
           <h1 className="mb-1 text-6xl font-bold tracking-tighter text-center text-white lg:text-8xl md:text-7xl">
             Free template sites for{" "}
-              <span className="text-blue-600">Everyone</span>
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-700 to-blue-500">Everyone</span>
           </h1>
           <br></br>
           <p className="mx-auto text-xl font-normal leading-relaxed fs521 lg:w-2/3">
