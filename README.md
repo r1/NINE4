@@ -7,6 +7,7 @@ nine4.app is a free template website for developers, businesses and hobbyists pr
 </p>
 <img src="./img/main-page.png"></img>
 <img src="./img/template-page.png"></img>
+<img src="./img/license-page.png"></img>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
