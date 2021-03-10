@@ -4,7 +4,7 @@ import TemplateMain from "@/components/TemplateMain";
 import { NextSeo } from "next-seo";
 import LayoutGA from "@/components/LayoutGA";
 
-export default function template() {
+export default function license() {
   return (
     <LayoutGA>
       <body className="text-white">
@@ -20,7 +20,6 @@ export default function template() {
           description="Free Template Sites Built With Next.js & Styled With TailwindCSS"
         />
         <Header />
-        <TemplateMain />
       </body>
     </LayoutGA>
   );
