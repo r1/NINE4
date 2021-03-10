@@ -16,7 +16,7 @@ export default function license() {
           ></meta>
         </Head>
         <NextSeo
-          title="nine4: Templates"
+          title="nine4: License"
           description="Free Template Sites Built With Next.js & Styled With TailwindCSS"
         />
         <Header />
