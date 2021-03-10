@@ -55,7 +55,6 @@ export default function Container() {
             >
               GitHub
             </a>
-
             <a
               className="inline-flex items-center px-4 py-2 mt-2 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent gwe62 g327 border rounded-lg text-md md:mt-0 md:ml-4 hover:text-black hover:bg-white focus:shadow-outline"
               href="/templates"

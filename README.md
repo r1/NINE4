@@ -1,18 +1,14 @@
 <p align="center">
+<img src="./img/logo.png"></img>
 <h2 align="center">nine4.app open source template website</h2> 
 <h2 align="center">
 nine4.app is a free template website for developers, businesses and hobbyists providing free templates built with Next.js and styled with Tailwind CSS.
 </h2> 
 </p>
-<img src="https://i.gyazo.com/25610b51277860a6c83ec8e316472c6d.png"></img>
+<img src="./img/main-page.png"></img>
+<img src="./img/template-page.png"></img>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Overview
-
-NextAuth.js is a complete open source authentication solution for [Next.js](http://nextjs.org/) applications.
-
-It is designed from the ground up to support Next.js and Serverless.
 
 ## Getting Started
 

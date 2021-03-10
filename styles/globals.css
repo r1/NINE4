@@ -38,3 +38,30 @@ a {
 .g327 {
   border-color: #302f30;
 }
+
+.imgd {
+  -webkit-filter: brightness(100%);
+}
+
+.imgd:hover {
+  -webkit-filter: brightness(70%);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.sdt1.sdt {
+  background: #50e3c2;
+}
+
+.sdt1 {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 5px;
+}
+
+.plc2 {
+  padding-left: 0.40rem;
+}
