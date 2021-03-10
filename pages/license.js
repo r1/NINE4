@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Header from "@/components/Header";
-import TemplateMain from "@/components/TemplateMain";
+import LicenseMain from "@/components/LicenseMain";
 import { NextSeo } from "next-seo";
 import LayoutGA from "@/components/LayoutGA";
 
@@ -20,6 +20,7 @@ export default function license() {
           description="Free Template Sites Built With Next.js & Styled With TailwindCSS"
         />
         <Header />
+        <LicenseMain />
       </body>
     </LayoutGA>
   );
