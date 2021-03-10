@@ -65,3 +65,8 @@ a {
 .plc2 {
   padding-left: 0.40rem;
 }
+
+.swb {
+  word-wrap: break-word; 
+  white-space: pre-wrap;
+}
