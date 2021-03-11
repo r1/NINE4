@@ -15,7 +15,7 @@ export default function Main() {
         <div className="flex justify-center pt-8">
           <div className="bg-gray-black max-w-sm float-left border border-gray-900">
             <a
-              href="https://github.com/r1/nine4-1"
+              href="https://nine4-1.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -84,7 +84,7 @@ export default function Main() {
           </div>
           <div className="bg-black max-w-sm mr-9 ml-9 float-left border border-gray-900">
             <a
-              href="https://github.com/r1/nine4-2"
+              href="https://nine4-2.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -153,7 +153,7 @@ export default function Main() {
           </div>
           <div className="bg-gray-900 max-w-sm border float-left border-gray-900">
             <a
-              href="https://github.com/r1/nine4-3"
+              href="https://nine4-3.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
