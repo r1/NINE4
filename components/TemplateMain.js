@@ -112,7 +112,7 @@ export default function Main() {
                   <span className="sdt sdt1 ml-1"></span>
                   <a
                     className="pl-2"
-                    href="https://nine4-3.vercel.app"
+                    href="https://nine4-2.vercel.app"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
