@@ -16,9 +16,9 @@ export default function Main() {
           </p>
         </div>
       </div>
-      <div className="container flex flex-col items-center justify-center mx-auto rounded-lg ">
+      <div className="container flex flex-col items-center justify-center mx-auto rounded-lg">
         <img
-          className="object-cover object-center w-3/4 mb-10 g327 border rounded-lg shadow-md"
+          className="object-cover object-center w-3/4 mb-10 rounded-lg shadow-md"
           alt="hero"
           src="./images/sites.png"
         ></img>
