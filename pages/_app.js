@@ -7,7 +7,12 @@ function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider attribute="class">
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" href="/favicon.png" />
+        <link
+          rel="icon"
+          type="image/png"
+          href="https://nine4.app/favicon.png"
+        />
       </Head>
       <Helmet htmlAttributes={{ lang: "en" }} />
       <Component {...pageProps} />
