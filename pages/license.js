@@ -12,12 +12,12 @@ export default function license() {
           <title>nine4.app</title>
           <meta
             name="keywords"
-            content="nine4, nine4 templates, free templates, tailwind templates, website templates, nextjs templates, r1"
+            content="nine4, nine4 templates, free templates, tailwind templates, website templates, nextjs templates"
           ></meta>
         </Head>
         <NextSeo
-          title="nine4: License"
-          description="Free Template Sites Built With Next.js & Styled With TailwindCSS"
+          title="nine4 - Free templates built with Next.js and styled with Tailwind CSS"
+          description="nine4 is a free to use template website with free templates for professional and personal use."
         />
         <Header />
         <LicenseMain />
