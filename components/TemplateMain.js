@@ -13,21 +13,21 @@ export default function Main() {
           </p>
         </div>
         <div className="flex justify-center pt-8">
-          <div className="bg-gray-black max-w-sm float-left border border-gray-900">
+          <div className="float-left max-w-sm border border-gray-900 bg-gray-black">
             <a
               href="https://nine4-1.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
-                className="w-100 border-b border-gray-900 imgd"
+                className="border-b border-gray-900 w-100 imgd"
                 src="./images/nine4-1.png"
                 alt=""
                 width="384"
                 height="512"
               />
             </a>
-            <div className="pl-3 pt-3 pb-3 text-c space-y-4 bg-black">
+            <div className="pt-3 pb-3 pl-3 space-y-4 bg-black text-c">
               <div className="pl-1">
                 <a
                   href="https://github.com/r1/nine4-1"
@@ -38,9 +38,9 @@ export default function Main() {
                   nine4-1
                 </a>
               </div>
-              <div className="font-medium text-xl">
+              <div className="text-xl font-medium">
                 <div className="text-white plc2">
-                  <span className="sdt sdt1 ml-1"></span>
+                  <span className="ml-1 sdt sdt1"></span>
                   <a
                     className="pl-2"
                     href="https://nine4-1.vercel.app/"
@@ -50,7 +50,7 @@ export default function Main() {
                     Live Site
                   </a>
                 </div>
-                <div className="text-white pl-2">
+                <div className="pl-2 text-white">
                   <a
                     className="inline-flex place-items-center"
                     href="https://github.com/r1/nine4-1/"
@@ -79,24 +79,27 @@ export default function Main() {
                     Source Code
                   </a>
                 </div>
+                <div className="inline-flex px-5 py-1 mt-3 font-semibold text-white bg-gray-800 rounded-full toracking-wide">
+                  Free
+                </div>
               </div>
             </div>
           </div>
-          <div className="bg-black max-w-sm mr-9 ml-9 float-left border border-gray-900">
+          <div className="float-left max-w-sm bg-black border border-gray-900 mr-9 ml-9">
             <a
               href="https://nine4-2.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
-                className="w-100 border-b border-gray-900 imgd"
+                className="border-b border-gray-900 w-100 imgd"
                 src="./images/nine4-2.png"
                 alt=""
                 width="384"
                 height="512"
               />
             </a>
-            <div className="pl-3 pt-3 pb-3 text-c space-y-4 bg-black">
+            <div className="pt-3 pb-3 pl-3 space-y-4 bg-black text-c">
               <div className="pl-2">
                 <a
                   href="https://github.com/r1/nine4-2"
@@ -107,9 +110,9 @@ export default function Main() {
                   nine4-2
                 </a>
               </div>
-              <div className="font-medium text-xl">
+              <div className="text-xl font-medium">
                 <div className="text-white plc2">
-                  <span className="sdt sdt1 ml-1"></span>
+                  <span className="ml-1 sdt sdt1"></span>
                   <a
                     className="pl-2"
                     href="https://nine4-2.vercel.app"
@@ -119,7 +122,7 @@ export default function Main() {
                     Live Site
                   </a>
                 </div>
-                <div className="text-white pl-2">
+                <div className="pl-2 text-white">
                   <a
                     className="inline-flex place-items-center"
                     href="https://github.com/r1/nine4-2"
@@ -148,24 +151,27 @@ export default function Main() {
                     Source Code
                   </a>
                 </div>
+                <div className="inline-flex px-5 py-1 mt-3 font-semibold text-white bg-gray-800 rounded-full toracking-wide">
+                  Free
+                </div>
               </div>
             </div>
           </div>
-          <div className="bg-gray-900 max-w-sm border float-left border-gray-900">
+          <div className="float-left max-w-sm bg-gray-900 border border-gray-900">
             <a
               href="https://nine4-3.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
-                className="w-100 border-b border-gray-900 imgd"
+                className="border-b border-gray-900 w-100 imgd"
                 src="./images/nine4-3.png"
                 alt=""
                 width="384"
                 height="512"
               />
             </a>
-            <div className="pl-3 pt-3 pb-3 text-c space-y-4 bg-black">
+            <div className="pt-3 pb-3 pl-3 space-y-4 bg-black text-c">
               <div className="pl-2">
                 <a
                   href="https://github.com/r1/nine4-3"
@@ -176,9 +182,9 @@ export default function Main() {
                   nine4-3
                 </a>
               </div>
-              <div className="font-medium text-xl">
+              <div className="text-xl font-medium">
                 <div className="text-white plc2">
-                  <span className="sdt sdt1 ml-1"></span>
+                  <span className="ml-1 sdt sdt1"></span>
                   <a
                     className="pl-2"
                     href="https://nine4-3.vercel.app"
@@ -188,7 +194,7 @@ export default function Main() {
                     Live Site
                   </a>
                 </div>
-                <div className="text-white pl-2">
+                <div className="pl-2 text-white">
                   <a
                     className="inline-flex place-items-center"
                     href="https://github.com/r1/nine4-3"
@@ -217,8 +223,10 @@ export default function Main() {
                     Source Code
                   </a>
                 </div>
+                <div className="inline-flex px-5 py-1 mt-3 font-semibold text-white bg-gray-800 rounded-full toracking-wide">
+                  Free
+                </div>
               </div>
-              <span className="text-gray-600 pl-2">In Development*</span>
             </div>
           </div>
         </div>

@@ -16,7 +16,7 @@ export default function Container() {
             </h1>
           </a>
           <button
-            className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block md:hidden outline-none focus:outline-none"
+            className="block px-3 py-1 text-xl leading-none text-white bg-transparent border border-transparent border-solid rounded outline-none cursor-pointer md:hidden focus:outline-none"
             type="button"
             aria-label="button"
             onClick={() => setNavbarOpen(!navbarOpen)}
@@ -48,7 +48,7 @@ export default function Container() {
         >
           <nav className="flex-col flex-grow pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
             <a
-              className="py-2 mt-2 font-semibold text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg text-lg md:mt-0 md:ml-4"
+              className="py-2 mt-2 text-lg font-semibold text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg md:mt-0 md:ml-4"
               href="https://github.com/r1/nine4"
               target="_blank"
               rel="noopener noreferrer"
@@ -56,16 +56,16 @@ export default function Container() {
               GitHub
             </a>
             <a
-              className="px-7 py-2 mt-2 font-semibold text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg text-lg md:mt-0 md:ml-4"
+              className="py-2 mt-2 text-lg font-semibold text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg px-7 md:mt-0 md:ml-4"
               href="/license"
             >
               License
             </a>
             <a
-              className="inline-flex items-center px-4 py-2 mt-2 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent gwe62 g327 border rounded-lg text-md md:mt-0 md:ml-4 hover:text-black hover:bg-white focus:shadow-outline"
+              className="inline-flex items-center px-4 py-2 mt-2 font-semibold text-white transition duration-500 ease-in-out transform bg-transparent border rounded-lg g327 text-md md:mt-0 md:ml-4 hover:text-black hover:bg-white focus:shadow-outline"
               href="/templates"
             >
-              <div className="flex text-lg tracking-tighter">
+              <div className="flex text-lg">
                 <span className="justify-center">View Templates</span>
               </div>
             </a>
