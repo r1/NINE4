@@ -70,3 +70,15 @@ a {
   word-wrap: break-word; 
   white-space: pre-wrap;
 }
+
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0);
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgb(36, 35, 35);
+}
