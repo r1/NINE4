@@ -4,6 +4,9 @@
 <h2 align="center">
 nine4.app is a free template website for developers, businesses and hobbyists providing free templates built with Next.js and styled with Tailwind CSS.
 </h2> 
+<h3 align="center">
+Tech Stack: Next.js / React, CSS, Tailwind CSS
+</h3> 
 </p>
 <img src="./img/main-page.png"></img>
 <img src="./img/template-page.png"></img>
