@@ -11,7 +11,7 @@
     "alpinejs": "^2.8.0",
     "autoprefixer": "^10.2.3",
     "dotenv": "^8.2.0",
-    "firebase": "^8.2.7",
+    "firebase": "^8.4.1",
     "next": "10.0.5",
     "next-seo": "^4.19.0",
     "next-themes": "^0.0.10",
