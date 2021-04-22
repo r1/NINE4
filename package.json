@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "alpinejs": "^2.8.0",
+    "alpinejs": "^2.8.2",
     "autoprefixer": "^10.2.3",
     "dotenv": "^8.2.0",
     "firebase": "^8.2.7",
