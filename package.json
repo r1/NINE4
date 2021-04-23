@@ -22,6 +22,6 @@
     "react-helmet": "^6.1.0",
     "react-text-loop": "^2.3.0",
     "react-text-transition": "^1.3.0",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.1.1"
   }
 }
