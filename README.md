@@ -9,7 +9,6 @@ Tech Stack: Next.js / React, CSS, Tailwind CSS
 </h3> 
 </p>
 <img src="./img/main-page.png"></img>
-<img src="./img/template-page.png"></img>
 <img src="./img/license-page.png"></img>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
