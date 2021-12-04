@@ -5,11 +5,8 @@ export default function Main() {
     <section className="text-black body-font lg:pt-14">
       <div className="container px-5 mx-auto lg:px-4">
         <div className="flex flex-col w-full text-left md:text-center ">
-          <h1 className="mb-1 text-6xl font-bold tracking-tighter text-center text-white lg:text-8xl md:text-7xl">
-            Free template sites for{" "}
-            <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-700 to-blue-500">
-              Developers
-            </span>
+          <h1 className="mb-1 text-6xl font-bold text-center text-white lg:text-8xl md:text-7xl">
+            All Templates
           </h1>
           <br></br>
           <p className="mx-auto text-xl font-normal leading-relaxed fs521 lg:w-2/3">
@@ -30,10 +27,10 @@ export default function Main() {
                     height={270}
                   />
                 </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black text-c">
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
-                      nine4-4
+                      NINE4 - #4
                     </h2>
                   </div>
                   <div className="text-xl font-medium">
@@ -95,10 +92,10 @@ export default function Main() {
                     height={270}
                   />
                 </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black text-c">
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
-                      nine4-3
+                      NINE4 - #3
                     </h2>
                   </div>
                   <div className="text-xl font-medium">
@@ -160,10 +157,10 @@ export default function Main() {
                     height={270}
                   />
                 </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black text-c">
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
-                      nine4-2
+                      NINE4 - #2
                     </h2>
                   </div>
                   <div className="text-xl font-medium">
@@ -225,10 +222,10 @@ export default function Main() {
                     height={270}
                   />
                 </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black text-c">
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
-                      nine4-1
+                      NINE4 - #1
                     </h2>
                   </div>
                   <div className="text-xl font-medium">

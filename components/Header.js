@@ -5,13 +5,13 @@ export default function Container() {
 
   return (
     <div className="z-50 w-full">
-      <div className="flex flex-col max-w-screen-xl px-4 pt-2 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+      <div className="flex flex-col  max-w-screen-2xl px-4 pt-2 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div className="flex flex-row items-center justify-between p-4">
           <a
             href="/"
-            className="text-lg font-semibold rounded-lg tracking-widestuppercase focus:outline-none focus:shadow-outline"
+            className="text-lg font-semibold rounded-lg focus:outline-none focus:shadow-outline"
           >
-            <h1 className="text-4xl font-bold tracking-tighter text-white uppercase md:text-md lg:text-3xl">
+            <h1 className="text-4xl font-bold text-white uppercase md:text-md lg:text-3xl">
               NINE4
             </h1>
           </a>
