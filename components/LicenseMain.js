@@ -3,7 +3,7 @@ export default function Main() {
     <section className="text-black body-font lg:pt-14">
       <div className="container px-5 mx-auto lg:px-4">
         <div className="flex flex-col w-full text-left md:text-center ">
-          <h2 className="mb-1 text-5xl font-bold tracking-tighter text-white lg:text-7xl md:text-6xl">
+          <h2 className="mb-1 text-5xl font-bold text-white lg:text-7xl md:text-6xl">
             Creative Commons Zero v1.0 Universal
           </h2>
           <a
