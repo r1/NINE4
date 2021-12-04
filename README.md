@@ -8,8 +8,8 @@ nine4.app is a free template website for developers, businesses and hobbyists pr
 Tech Stack: Next.js / React, CSS, Tailwind CSS
 </h3> 
 </p>
-<img src="./img/main-page.png"></img>
-<img src="./img/license-page.png"></img>
+<img src="./img/main_page.png"></img>
+<img src="./img/license_page.png"></img>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
