@@ -13,6 +13,7 @@ html {
   background-color: #000000;
   font-family: PPNeueMontreal-Medium;
   letter-spacing: 1px;
+  background-color: #050505;
 }
 
 #__next {
@@ -44,6 +45,10 @@ a {
 
 .g327 {
   border-color: #302f30;
+}
+
+.bg-gray {
+  background-color: #050505;
 }
 
 .imgd {

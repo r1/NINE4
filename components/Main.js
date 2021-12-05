@@ -18,16 +18,14 @@ export default function Main() {
           <div className="flex flex-wrap -mx-1 lg:-mx-4">
             <div className="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
               <div className="border border-gray-800 overflow-hidden rounded-lg shadow-lg">
-                <a href="https://nine4-4.vercel.app/">
-                  <Image
-                    alt="nine4-4"
-                    className="block h-auto w-full"
-                    src="https://nine4.app/images/4.png"
-                    width={440}
-                    height={270}
-                  />
-                </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
+                <Image
+                  alt="nine4-4"
+                  className="block h-auto w-full"
+                  src="https://nine4.app/images/4.png"
+                  width={440}
+                  height={270}
+                />
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-gray">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
                       NINE4 - #4
@@ -92,7 +90,7 @@ export default function Main() {
                     height={270}
                   />
                 </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-gray">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
                       NINE4 - #3
@@ -148,16 +146,14 @@ export default function Main() {
             </div>
             <div className="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
               <div className="border border-gray-800 overflow-hidden rounded-lg shadow-lg">
-                <a href="https://nine4-2.vercel.app/">
-                  <Image
-                    alt="nine4-2"
-                    className="border border-gray-700 block h-auto w-full"
-                    src="https://nine4.app/images/2.png"
-                    width={440}
-                    height={270}
-                  />
-                </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
+                <Image
+                  alt="nine4-2"
+                  className="border border-gray-700 block h-auto w-full"
+                  src="https://nine4.app/images/2.png"
+                  width={440}
+                  height={270}
+                />
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-gray">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
                       NINE4 - #2
@@ -222,7 +218,7 @@ export default function Main() {
                     height={270}
                   />
                 </a>
-                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-black">
+                <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-gray">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
                       NINE4 - #1
