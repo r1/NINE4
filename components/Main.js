@@ -149,7 +149,7 @@ export default function Main() {
                 <Image
                   alt="nine4-2"
                   className="border border-gray-700 block h-auto w-full"
-                  src="https://nine4.app/nine4_2.png"
+                  src="https://nine4.app/images/nine4_2.png"
                   width={440}
                   height={270}
                 />
