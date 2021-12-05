@@ -21,7 +21,7 @@ export default function Main() {
                 <Image
                   alt="nine4-4"
                   className="block h-auto w-full"
-                  src="https://nine4.app/images/4.png"
+                  src="https://nine4.app/images/#4.png"
                   width={440}
                   height={270}
                 />
@@ -85,7 +85,7 @@ export default function Main() {
                   <Image
                     alt="nine4-3"
                     className="block h-auto w-full"
-                    src="https://nine4.app/images/3.png"
+                    src="https://nine4.app/images/#3.png"
                     width={440}
                     height={270}
                   />
@@ -149,7 +149,7 @@ export default function Main() {
                 <Image
                   alt="nine4-2"
                   className="border border-gray-700 block h-auto w-full"
-                  src="https://nine4.app/images/2.png"
+                  src="https://nine4.app/images/#2.png"
                   width={440}
                   height={270}
                 />
@@ -213,7 +213,7 @@ export default function Main() {
                   <Image
                     alt="nine4-1"
                     className="block h-auto w-full"
-                    src="https://nine4.app/images/1.png"
+                    src="https://nine4.app/images/#1.png"
                     width={440}
                     height={270}
                   />
