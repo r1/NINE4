@@ -81,15 +81,13 @@ export default function Main() {
             </div>
             <div className="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
               <div className="border border-gray-800 overflow-hidden rounded-lg shadow-lg">
-                <a href="https://nine4-3.vercel.app/">
-                  <Image
-                    alt="nine4-3"
-                    className="block h-auto w-full"
-                    src="https://nine4.app/images/nine4_3.png"
-                    width={440}
-                    height={270}
-                  />
-                </a>
+                <Image
+                  alt="nine4-3"
+                  className="block h-auto w-full"
+                  src="https://nine4.app/images/nine4_3.png"
+                  width={440}
+                  height={270}
+                />
                 <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-gray">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
@@ -209,15 +207,13 @@ export default function Main() {
             </div>
             <div className="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
               <div className="border border-gray-800 overflow-hidden rounded-lg shadow-lg">
-                <a href="https://nine4-1.vercel.app/">
-                  <Image
-                    alt="nine4-1"
-                    className="block h-auto w-full"
-                    src="https://nine4.app/images/nine4_1.png"
-                    width={440}
-                    height={270}
-                  />
-                </a>
+                <Image
+                  alt="nine4-1"
+                  className="block h-auto w-full"
+                  src="https://nine4.app/images/nine4_1.png"
+                  width={440}
+                  height={270}
+                />
                 <div className="border-t border-gray-800 pt-3 pb-3 pl-3 space-y-4 bg-gray">
                   <div className="pl-1">
                     <h2 className="text-3xl font-semibold text-white">
