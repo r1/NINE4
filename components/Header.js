@@ -55,12 +55,6 @@ export default function Container() {
             >
               GitHub
             </a>
-            <a
-              className="py-2 mt-2 text-lg font-semibold text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg px-7 md:mt-0 md:ml-4"
-              href="/license"
-            >
-              Template License
-            </a>
           </nav>
         </div>
       </div>

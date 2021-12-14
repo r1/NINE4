@@ -10,8 +10,10 @@ export default function Main() {
           </h1>
           <br></br>
           <p className="mx-auto text-xl font-normal leading-relaxed fs521 lg:w-2/3">
-            Free Tailwind CSS Templates for you to use and modify freely with no
-            restrictive license.
+            Free Tailwind CSS Templates for you to use and modify freely with{" "}
+            <a href="/license" className="underline underline-offset-1">
+              no restrictive license.
+            </a>
           </p>
         </div>
         <div className="container my-12 mx-auto px-4 md:px-12">
@@ -72,7 +74,7 @@ export default function Main() {
                         Source Code
                       </a>
                     </div>
-                    <div className="inline-flex px-5 py-1 mt-3 font-semibold text-white bg-gray-800 rounded-full toracking-wide">
+                    <div className="inline-flex px-5 py-1 mt-3 font-medium text-white bg-gray-800 rounded-full toracking-wide">
                       Free
                     </div>
                   </div>
@@ -135,7 +137,7 @@ export default function Main() {
                         Source Code
                       </a>
                     </div>
-                    <div className="inline-flex px-5 py-1 mt-3 font-semibold text-white bg-gray-800 rounded-full toracking-wide">
+                    <div className="inline-flex px-5 py-1 mt-3 font-medium text-white bg-gray-800 rounded-full toracking-wide">
                       Free
                     </div>
                   </div>
@@ -198,7 +200,7 @@ export default function Main() {
                         Source Code
                       </a>
                     </div>
-                    <div className="inline-flex px-5 py-1 mt-3 font-semibold text-white bg-gray-800 rounded-full toracking-wide">
+                    <div className="inline-flex px-5 py-1 mt-3 font-medium text-white bg-gray-800 rounded-full toracking-wide">
                       Free
                     </div>
                   </div>
@@ -261,7 +263,7 @@ export default function Main() {
                         Source Code
                       </a>
                     </div>
-                    <div className="inline-flex px-5 py-1 mt-3 font-semibold text-white bg-gray-800 rounded-full toracking-wide">
+                    <div className="inline-flex px-5 py-1 mt-3 font-medium text-white bg-gray-800 rounded-full toracking-wide">
                       Free
                     </div>
                   </div>

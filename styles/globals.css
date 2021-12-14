@@ -83,6 +83,10 @@ a {
   white-space: pre-wrap;
 }
 
+.underline-offset-1 {
+  text-underline-offset: 1px;
+}
+
 *::-webkit-scrollbar {
   width: 8px;
 }
