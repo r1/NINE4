@@ -15,7 +15,6 @@ export default function Home() {
         <NextSeo
           title="nine4 - Free templates built with Next.js and styled with Tailwind CSS"
           description="nine4 is a free to use template website with free templates for professional and personal use."
-          content="nine4, nine4 templates, free templates, tailwind templates, tailwind css templates, website templates, tailwind website templates, nextjs templates"
         />
         <Header />
         <TemplateMain />
