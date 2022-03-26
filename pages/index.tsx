@@ -2,7 +2,7 @@ import Head from "next/head";
 import Header from "@/components/Header";
 import TemplateMain from "@/components/Main";
 import { NextSeo } from "next-seo";
-import LayoutGA from "@/components/LayoutGA";
+import LayoutGA from "@/components/LayoutGA.js";
 
 export default function Home() {
   return (
