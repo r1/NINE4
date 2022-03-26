@@ -30,7 +30,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/LayoutGA.js"  ],
   "exclude": [
     "node_modules"
   ]
