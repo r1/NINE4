@@ -48,7 +48,7 @@ export default function Container() {
         >
           <nav className="flex-col flex-grow pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
             <a
-              className="py-2 mt-2 text-lg font-semibold text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg md:mt-0 md:ml-4"
+              className="py-2 mt-2 text-xl font-semibold text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg md:mt-0 md:ml-4"
               href="https://github.com/r1/nine4"
               target="_blank"
               rel="noopener noreferrer"
