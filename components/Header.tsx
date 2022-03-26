@@ -11,7 +11,7 @@ export default function Container() {
             href="/"
             className="text-lg font-semibold rounded-lg focus:outline-none focus:shadow-outline"
           >
-            <h1 className="text-4xl font-bold text-white uppercase md:text-md lg:text-3xl">
+            <h1 className="font-bold text-white uppercase md:text-md text-4xl">
               NINE4
             </h1>
           </a>
